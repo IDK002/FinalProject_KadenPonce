@@ -1,0 +1,15 @@
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\bin\Debug\net6.0\Personal project.exe
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\bin\Debug\net6.0\Personal project.deps.json
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\bin\Debug\net6.0\Personal project.runtimeconfig.json
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\bin\Debug\net6.0\Personal project.dll
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\bin\Debug\net6.0\Personal project.pdb
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\obj\Debug\net6.0\Personal project.csproj.AssemblyReference.cache
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\obj\Debug\net6.0\Personal project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\obj\Debug\net6.0\Personal project.AssemblyInfoInputs.cache
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\obj\Debug\net6.0\Personal project.AssemblyInfo.cs
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\obj\Debug\net6.0\Personal project.csproj.CoreCompileInputs.cache
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\obj\Debug\net6.0\Personal project.dll
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\obj\Debug\net6.0\refint\Personal project.dll
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\obj\Debug\net6.0\Personal project.pdb
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\obj\Debug\net6.0\Personal project.genruntimeconfig.cache
+C:\Users\poncekad\Downloads\KadenPonce\Assignments\Personal Project\Personal project\Personal project\obj\Debug\net6.0\ref\Personal project.dll
